@@ -1,0 +1,2 @@
+# Predicting-Bank-loan-risk-Udacity-Project-
+Due to a financial scandal that hit a competitive bank, there is an influx of new people applying for loans for our bank instead of the other bank in the city. All of a sudden, we have nearly 500 loan applications to process this week! And we have to process all of these loan applications within one week and provide a list of creditworthy customers to the manager in the next two days.
